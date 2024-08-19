@@ -3,6 +3,7 @@ osixia/keepalived:latest
 bitnami/postgresql-repmgr:16.3.0
 bitnami/postgresql-repmgr:15.7.0
 ubuntu:jammy
+node:18
 maptiler/tileserver-gl:v4.12.0
 openjdk:17
 openjdk:11
