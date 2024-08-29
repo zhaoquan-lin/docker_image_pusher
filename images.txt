@@ -11,6 +11,8 @@ openjdk:17
 openjdk:11
 mysql:8.4.2
 bitnami/postgresql-repmgr:16.4.0
+bitnami/pgpool:4.5.2
+bitnami/pgpool:4.5.3
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
